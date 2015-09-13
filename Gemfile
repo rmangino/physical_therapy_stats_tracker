@@ -26,8 +26,6 @@ gem 'devise'
 
 gem 'figaro', '~> 1.1.1'
 
-gem 'faker'
-
 # Provides attr_accessible
 #gem 'protected_attributes'
 
